@@ -1,0 +1,28 @@
+.container {
+  margin: 2%;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+.row {
+  text-align: center;
+  margin: initial;
+  
+}
+
+.col-sm-2{
+  border: 1px solid;
+  padding: 0.3%;
+}
+
+.col-sm-3{
+  border: 1px solid;
+  padding: 1%;
+}
+
+.col-sm-4{
+  border: 1px solid;
+  padding: 1%;
+}
